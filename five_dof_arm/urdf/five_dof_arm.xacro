@@ -22,8 +22,8 @@
     <color rgba="1.0 0 0 0"/>
   </material>
 
-  <property name="deg_to_rad" value="0.01745329251994329577" />
-  <property name="M_PI" value="3.14159"/>
+  <xacro:property name="deg_to_rad" value="0.01745329251994329577" />
+  <xacro:property name="M_PI" value="3.14159"/>
 
 <!-- Macros (no use of the new feature letting you put more than one visual property to a link) -->
 
